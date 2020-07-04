@@ -1,2 +1,2 @@
 # DIP
-Digital Image Processing using Scipy, Numpy and Keras
+Digital Image Processing using Scipy, Numpy, Scikit Image and Keras
